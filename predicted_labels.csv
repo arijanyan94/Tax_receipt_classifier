@@ -1,0 +1,499 @@
+GOOD_NAME,UNIT_PRICE_AVR,ADG_CODE_MODE,Labels,GOOD_NAME_TRANSLATED,Predicted_Labels
+"Գարեջուր Flensburger ,0,5 լ",1510.0,2203,beer,Beer Flensburger: 0.5 l,beer
+Բրինձ Բասմատ Ինդիա 1կգ,1331.93548387097,1006,rice,Rice Basmat India 1 kg,rice
+ԼՈԼԻԿ ԿՈՂԵՎԱՀԱՆԱԾ 1ԿԳ,800.0,2002,tomatoes,1 kg of tomatoes,tomatoes
+Ժելե Ֆինի բանան 100գր,600.0,1704,dessert,Jelly Fin Banana 100 g,dessert
+Դոնդող «Քրեյզի Ֆան» բուրգեր 17գ.,199.995,1704,dessert,Jelly Fan Pyramids 17 G.,else
+պանիր Գորիսի չանախ կգ,2250.0,406,cheese,Cheese Goris Chanakh Kg,cheese
+Թութուն «Մակ Բարեն» բալ 40գր,2025.47257383966,2403,dessert,"Mulberry ""Mak Baren"" 4 40 g",dessert
+Ձողիկ հյութի գոֆրե 20հ,100.0,3921,else,Stick juice gofre 20 h,else
+թան Իգիթ 0.5լ,200.200796178344,403,dairy,Tan Igit 0.5 l,else
+Գարեջուր Ժիգուլյովսկոյե 0.5լ Ա/Տ,400.0,2203,beer,Beer Jigulovskoye 0.5 l / t,beer
+Բրինձ կլոր  Անուշ Լինի 500գ,670.0,1104,rice,Rice round sweet 500 g,rice
+ԳԱՐԵՋՈՒՐ WARSTEINER GOLD թ/տ 0.5լ.,860.0,2203,beer,Beer Warsteiner Gold / T 0.5 l.,beer
+"Բրինձ Բարեկենդան,երկար դեղին 500գ ",450.0,1006,rice,"Rice carnival, long yellow 500 g",rice
+Ժելեներ Բոնպարի չարաճճի արջուկ  75գ,370.0,2007,dessert,Jelly Bonpar Naughty Bear 75 g,dairy
+Հալած պանիր Հոխլանդ Խոզապուխտ 55% 200գր,1160.0,406,cheese,Melted Cheese Hokland Ham 55% 200 g,cheese
+ՄԱՐԻԱՆՆԱ ՅԳ ԴՁ270Գ,334.461538461538,403,dairy,Marianna Yg DG 270 g,dairy
+Արևածաղիկ «Ապաչի» -10,280.0,1206,else,"Sunflower ""Apachi"" -10",else
+Տորթ Դան դեսերտ 6800,7150.0,1905,dessert,Cake Dan Dessert 6800,dessert
+Խաղող Քիշմիշ կգ,2835.09433962264,806,dessert,Grape Kishmish Kg,dessert
+Պանիր Սուլուգունի Sega 40գր,250.0,406,cheese,Cheese Suluguni Sega 40 gr,cheese
+"""Օտ Մարտինա"" գարեջուր 5.5%  0,375լ ",680.0,2203,beer,"""Ot Martina"" Beer 5.5% 0.375 l",beer
+ԼԵՇ ՀԱՏՈՎ,900.0,302,meat,Lesh pc,else
+Պանիր Վալիո Կրեմ Չիզ 180գր,900.0,401,cheese,Cheese Walio Cream Chiz 180 gr,cheese
+Պանիր Gran Spicco 200գ,2460.0,406,cheese,Cheese Gran Spicco 200 g,cheese
+Բրինձ Ֆալակ Պրեմիում Բասմատի 1կգ,1020.4,1006,rice,Rice Falak Premium Basmat 1 kg,rice
+Գարեջուր Վեյզբեռգ 0.44լ,490.0,2203,beer,Beer Way with 0.44 l,beer
+Բալ Տորթ 500գր.,2072.58064516129,1905,dessert,Cherry cake 500 gr.,dessert
+Բանջարեղեն Լոլիկ Վարդագույն Կգ-Ով,1790.0,702,tomatoes,Vegetable tomatoes with pink kg,tomatoes
+ԳԱՐԵՋՈՒՐ ԱՄՍՏԵԼ Ժ/Բ 0.5Լ,599.0,2203,beer,Beer Amstel h / b 0.5 l,beer
+Ռոլլ Խանումա Աթենք,2000.0,1601,else,Roll Khanuma Athens,else
+Բրինձ <<Ярмарака>> Круглозерный 700,1190.0,710,rice,Բրինձ << Yarmaraka >> Crouping 700,else
+Сырная тарелка Для тебя Сказочный Вояж 185г,306.666666666667,406,cheese,Cheese plate for you fabulous voyage 185,cheese
+Պանիր Հոխլանդ Հալած 400գր,2000.0,406,cheese,Cheese Hokland Melted 400 gr,cheese
+Բլղուր մանր  450գ  Rio Grande,400.0,1008,else,Bulger Small 450 g Rio Grande,meat
+Սորինի ԲՄԲ Բաուլետտո 300գր Գոլդ,5200.0,1806,dessert,Sorini Baouletto 300 Gold Gold,beer
+Ցախ կեռաս հատ,1500.0,2008,dessert,Cleft cherries,dessert
+ՄԻԹ ՖՈՒԴ ՍԱԼ,2800.0,1601,meat,Mitt Food Sal,dairy
+ՊՈՄԻԴՈՐ  ՉԵՐԻ,1473.18181818182,702,tomatoes,Pomidor Cherry,dessert
+Գարեջուր 'CHIMAY' 0.75լ ա/տ cinq cents tripel 8%,4515.0,2203,beer,Beer 'Chimay' 0.75 l A / T CINQ CENTS TRIPEL 8%,beer
+Գարեջուր ԼՈՎԵՆ ԲՌԱՈՒՆ 0.5լ թ/տ  «Ադամյում»,500.0,2203,beer,"Beer Loven Brown 0.5 l T / T ""Adamum""",beer
+ՄԱՄՈՒԼԻՆ ՏՈՐԹ 230 Գ,850.0,101,dessert,Press Cake 230 g,dessert
+ԺԵԼԵ ՏՈՐԹ 0.780ԿԳ 6Հ,1500.0,101,dessert,Jelly cake 0.780 kg 6 h,dessert
+Սուշիի լիստեր House of Asia 6հ,1450.0,1212,else,Sushi Lists House Of Asia 6 h,else
+ՄԻՋԱԴԻՐ ՔԵՖՐԻ ամենօրյա 20Հ,885.714285714286,9619,else,Intermediate Keffre daily 20 h,beer
+Լոլիկ  կգ 380,380.386176470588,702,tomatoes,Tomatoes kg 380,tomatoes
+Հավի թևի բդիկ «Ստավռոպոլսկի» կգ,1515.0,1602,meat,"Chicken wing bitter ""Stavropolski"" kg",meat
+"Կեֆիր Bonilat 0% 0,9լ",660.0,403,dairy,Kefir Bonilat 0% 0.9l,dairy
+Թան առանց գազ Ապարան 1լ,440.0,403,dairy,Tan without gas Aparan 1 l,else
+Miller գարեջուր ա/տ 0.33լ,520.0,2203,beer,Miller Beer A / T 0.33 l,beer
+Ժելե Ռուսկի պրոդուկտ ազմվամորի 50գ,290.0,3503,dessert,Jelly RUSSIAN PRODUCT JARMATAMOR 50 G,dairy
+ՌՈՒԼԵՏ ՋԵՄՈՎ ԶԱՏԻԿ,780.0,1905,dessert,Roulette Jamov Easter,else
+7 Դեյս Մինի Բուրգեր Ժելե 10գ,100.0,1905,dessert,7 Deed Mini Pyramids Jelly 10 g,dessert
+Պանիր Գաուդա 48% դեղին կգ,5500.0,101,cheese,Cheese Gauda 48% Yellow Kg,cheese
+Պանիր Լոռի էժան Սևանա կգ․,1878.88888888889,403,cheese,Cheese cheap Loran kg.,cheese
+Սուշի «Ջոլլի» 48գ,1500.0,1704,else,"Sushi ""Jolly"" 48 g",else
+m & m Disqueti կգ Ռոսկաֆե,3900.0,1806,dessert,M & M Disqueti kg of rosceafe,dessert
+"Բրինձ ""Ոսկե Ջրաղաց"" կլորահատիկ 1000 գ",1258.125,1006,rice,"Rice ""Golden Mill"" Round 1000 g",rice
+Լոլիկ  կգ 840,840.535263157895,702,tomatoes,Tomato Kg 840,tomatoes
+ՀԱՐԲԱՑ ԲԱԼ,610.0,101,dessert,Drunk cherry,dessert
+Բրինձ շոգեհարած ՙԲարեկենդան՚ գոլդեն 0.5կգ,386.153846153846,1006,rice,Rice steamed Carnival Golden 0.5 kg,rice
+Բրինձ թայլանդ Ինեսսա թանկ կգ,880.0,1006,rice,Rice Thailand Inessa Expensive Kg,rice
+Թան Bonilat 1.5% 1լ,432.183098591549,401,dairy,Tan Bonilat 1.5% 1 l,beer
+ԱՊԱՐԱՆ ԹԱՆ 500ՄԼ,260.0,403,dairy,Aparan Tan 500 ml,dairy
+Դոնդող Լով,130.0,904,dessert,Jelly,dessert
+Լոլիկ էկզոտիկ կգ (Զեղչ),202.4790625,702,tomatoes,Tomato Exotic Kg (Discount),tomatoes
+Պանիր հալած Հոխլանդ 400գր.,1950.0,406,cheese,Cheese Melted Hokland 400 gr.,cheese
+Բրինձ բասմատի «Նուր Ջան» կգ,890.0,1902,rice,"Rice Basmat's ""Nur Jan"" kg",rice
+Բրինձ կլորահատիկ Ալտայսկայա Սկազկա 800գ,720.0,1006,rice,Rice Round Altaykaya Scazka 800 g,rice
+Փոքրիկ Նկարներ Գյումրի,920.0,3926,else,Little pictures of Gyumri,else
+Գարեջուր «Kilikia» 4.8% ա/տ 250մլ,330.0,2203,beer,"Beer ""Kilikia"" 4.8% A / T 250 ml",beer
+Պանիր Կալինինոյի չանախ  կգ,1650.0,406,cheese,Cheese Kalinino Chanakh Kg,cheese
+Գ.Ք.Հարբած բալ,600.0,1905,dessert,G.C. Charitable cherry,dessert
+Ձկան պահ. Սարդինա տոմատ ...,1180.0,305,meat,Fish moment.Sardina Tomat ...,tomatoes
+Ծովակաղամբ սուշիի համար Սեն Սոյ 28գ,1950.0,2106,else,Saint Soy 28 g for Sushi Sushi,else
+Գարեջուր Stella Artois 0.33լ,555.241379310345,2203,beer,Beer Stella Artois 0.33 l,beer
+Վաֆլի Սլադոնեժ Եփած Խտ․կաթ 120գ,330.0,1905,dessert,Waffle Sladonezh cooked chat. 120 g,dairy
+Գարեջուր <<Heineken>> 4.8%  0.5լ,816.197183098591,2203,beer,Beer << Heineken> 4.8% 0.5 l,beer
+Բրինձ ինդիկա գոլդ «Մայա սեմյա» 1 կգ,870.0,1006,rice,"Rice Indica Gold ""Maya Semia"" 1 kg",rice
+Բդիկ 15 կգ արկղ,14010.0,406,meat,Bddix 15 kg box,meat
+Դոնդող չոր ազնվամորու Նինա Ֆարինա 50գ,137.5,1704,dessert,Jelly dry raspberry Nina Farina 50 g,dessert
+Կեֆիր ԲՈՆԻԼԱՏ 0.45լ դիետիկ 0.5%,390.0,403,dairy,Kefir Bonilat 0.45 l Diet 0.5%,dairy
+0702-Պոմիդոր մոխիտոս կգ,701.122726377952,702,tomatoes,0702-tomato Mokhitos Kg,tomatoes
+Կեֆիր Նախաճաշ <<ԲԻֆիդո>> Մարիաննա 2,480.0,401,dairy,"Kefir Breakfast ""Bifido"" Marianna 2:",dairy
+Բասմաթի բրինձ XXL «Տոպ Սան» 900գ,1058.33333333333,1103,rice,"Basmat rice XXL ""TOP SAN"" 900 g",rice
+Տոմատ 260կգ ԱՊԳ,420.0,2002,tomatoes,Tomat 260 kg,tomatoes
+Դոնդող Երիցյան կգ,1568.78594249201,1602,dessert,Jelly Yeritsyan Kg,dessert
+Հալած պանիր «Սիրոբոգատով»130գ կլոր,800.0,406,cheese,"Melted cheese ""Syrobogat"" 130 g round",cheese
+Հաելի օվալ 4,250.0,2908,else,Oval 4,else
+0401-Անի-Կեֆիր 2.5% 290g,300.0,401,dairy,0401-Ani-kefir 2.5% 290g,dairy
+Տոմատ Տոմատ  «Կուբանոչկա»1կգ,1450.0,1006,tomatoes,"Tomat Tomat ""Kubanochka"" 1 kg",tomatoes
+Պանիր Parmegiano Reggiano 200գ,3735.37313432836,406,cheese,Cheese Parmigiano Reggiano 200 g,cheese
+Բրինձ Բասմաթի 5կգ,5500.0,2106,rice,Rice Basmath 5 kg,rice
+"Կաթնաշոռային դեսերտ Հապալասս Չուդո 4,2% 100գ",490.0,403,dessert,Cottage cheese dessert blueberry chudo 4.2% 100 g,cheese
+WEIDMANN թ/տ գարեջուր   500ml,700.0,2203,beer,Weidmann / T beer 500ml,beer
+դոնդող համբուրգեր 22գ,240.03,1806,dessert,Jelly Hamburgers 22 g,meat
+Լոլիկ  կգ 460,460.02,702,tomatoes,Tomato kg 460,tomatoes
+Բրինձ Մառանիկ Սան բիրդ թայլանդական,570.909090909091,1006,rice,Rice Maranik San Bip Thai,rice
+Դոնդող Անուշ լինի 50գ,450.0,2103,dessert,Jelly Anush is 50 g,dairy
+"Մետր Huanan 7,5մ /HAP-90-83",1175.71428571429,3403,else,Meter huanan 7.5 m / hap-90-83,else
+"Գարեջուր <<Guinness>> foreign extra 0.33մլ 7,5% ա/",1180.0,2203,beer,"Beer ""Guinness >> FOREIGN EXTRA 0.33 ml 7.5% a /",beer
+Լոլիկ մանր,320.945945945946,712,tomatoes,Tomatoes small,tomatoes
+Լուչ ժավել 5լ,450.0,3402,else,Luke Javel 5 l,beer
+Համեմունք ЗТ դոնդող նարինջի 50գր,200.0,910,dessert,Spice Zt Jelly oranges 50 gr,else
+Բրինձ GALLO 500գ venere սև,3050.0,1006,rice,Rice Gallo 500 g Venere black,rice
+"Սպագետի ""Ռուսական""",350.0,1902,else,"Spaghetti ""Russian""",else
+Պանիր Hochland մեծ 100գ,547.142857142857,406,cheese,Cheese Hochland Great 100 g,cheese
+Չիր գիլազի,3000.0,813,dessert,Chry Gilaz,cheese
+Գարեջուր Ալեքսանդրապոլ 0.33լ Ա/Տ,430.0,2203,beer,Beer Alexandropol 0.33 l / t,beer
+Պանիր Կաթնաշոռային Մարիաննա 100գ,368.965517241379,406,cheese,Cheese Curd Marianna 100 g,cheese
+Բրինձ թայլանդ վարդ 25կգ $,530.0,1006,rice,Rice Thailand Rose 25 kg $,rice
+"Կիլկի Գոսպադառոչկա 250գ բացիչով,տոմատի",460.0,1604,else,"Kilki Gospadartka 250 g of open, tomato",tomatoes
+Բրինձ Պակիստան Պոլիտան կգ,547.777777777778,1006,rice,Rice Pakistan Politic Kg,rice
+M08-C909S12 Բլյուդա pur.matt oval,3800.0,7013,else,M08-C909S12 Bludda Pur.Matt Oval,dairy
+Վետկա պոմիդոր կգ,644.375,709,tomatoes,Vetka Pomidor Kg,dairy
+"Պանիր Կաթնա, Չեչիլ 135գ ",435.0,406,cheese,"Cheese Katna, Chechil 135 g",cheese
+Պանիր հալած Viola 200գ,877.511520737327,406,cheese,Cheese Melted Viola 200 g,cheese
+Թան Մարիաննա անանուխով 330 գր,160.0,403,dairy,Tan Marianna Mint 330 gr,else
+ՉԵՐՐԻ ԿԳ-ՈՎ,2780.0,709,tomatoes,Cherry Kg,dessert
+գարեջուր Kozel 0.5լ սև թ*տ,460.154166666667,2203,beer,Beer Kozel 0.5l in black,beer
+Թան Մարիաննա 1լ 1.4%,460.0,401,dairy,Tan Marianna 1 l 1.4%,else
+Աշտարակ Պանրիկ կաթնաշոռային 25 % 40գ,155.835999015748,406,cheese,Ashtarak cheese cottage cheese 25% 40 g,cheese
+ՏԵՂԱԿԱՆ ԼՈԼԻԿ,751.699764982374,702,tomatoes,Local tomato,tomatoes
+Լոլիկ GRAN NATURA/DONNA CRISTINA 2.5կգ թ/տ սեփակ,3290.0,2006,tomatoes,Tomato Gran Natura / Donna Cristina 2.5k C / T.,tomatoes
+Ժելե Սոչնիյե յագոդի  Մ/Վ կգ,1296.66666666667,1704,dessert,Jelly Sochnyi Yagod M / s,dairy
+Կլոր բրինձ «Բարեկենդան» 500գ,490.0,1106,rice,"Round rice ""Carnival"" 500 g",rice
+Տորթ Ռուլետ Արփի 600գ,1520.0,1905,dessert,Cake Roulette Arpi 600 g,dessert
+Բրինձ Կլոր Արոր 400 գ.,480.0,1006,rice,Rice round Arab 400 g.,rice
+Բրինձ  կլոր  700գր.  Յարմրկա,1160.0,1006,rice,Rice round 700 gr.Yarmeal,rice
+Պանիր  Գաուդա  կգ.  Ալաշկերտ,4332.04081632653,406,cheese,Cheese Gauda kg.Alashkert,cheese
+Ոսկե ջրաղաց Բրինձ երկարահատիկ 1կգ,1070.0,1006,rice,Golden mill rice lengthy 1 kg,rice
+"Գարեջուր Մոսկովյան 0,25 լ.",300.0,2203,beer,Beer Moscow 0.25 liters.,beer
+ՀԱՎԻ ԲԴԻԿ ԲԼԱԳՈՅԱՌ 683 683,1734.34166666667,207,meat,Chicken Bpikic Blagoyars 683 683,meat
+Բրինձ երկար Գուդվիլ 800գ,1010.0,1008,rice,Rice long gudwill 800 g,rice
+ՍՏԵԼԼԱ ԱՐՏՈԻՍ  գարեջուր  0.33 լ,520.0,2203,beer,Stella Artois Beer 0.33 l,beer
+Լոլիկ փնջով կգ,1011.99115044248,702,tomatoes,Tomato beam kg,tomatoes
+Պանիր Լոռի Կաթնա ՄՖ Վակում կգ,4130.0,406,cheese,Cheese Lori's Cathnam MF CLASS,cheese
+"Բրինձ  Falak organic brown basmati 1,8կգ",2305.0,713,rice,Rice Falak Organic Brown BASMATI 1.8 Kg,rice
+Ոսկե ջրաղաց Բրինձ դեղին 500գ,562.717391304348,1006,rice,Golden mill rice yellow 500 g,rice
+Թխվ. Գ. Քենդի Կաթնաշոռային կգ,1650.0,1905,dessert,Baked.C.Candy Cottage Kg,dessert
+ԺԵԼԵ ՏՐՈԼԼԻ ԵՐԿ,620.0,2007,dessert,Jelly trollee,dessert
+ԼԱ-ՍՈՆ 25մգ,1360.0,3004,else,La-Son 25 mg,dairy
+Կաթնաշոռային արտադրանք «Արարատյան Կաթ» կգ,1780.0,406,dairy,"Cottage cheese products ""Ararat Milk"" kg",cheese
+"Կաթնաշոռ «Չուդո» բալի-կեռաս 4,0% 100գր",450.0,406,dairy,"Cottage cheese ""Chudo"" cherry-cherries 4,0% 100 gr",cheese
+Գարեջուր Delirium red 0.33l ա/տ,1750.0,2208,beer,Beer Delirium Red 0.33L a / t,beer
+Վիտչինա Դելիկատես,1900.0,1602,meat,Wittchina Delicism,dairy
+Չերի Լոլիկ,1017.56756756757,2106,tomatoes,Cherry tomatoes,tomatoes
+Պանիր «Հոխլանդ»  400գ,2040.0,406,cheese,"Cheese ""Hokland"" 400 g",cheese
+Պանիր  Գաուդա Մարիաննա,4900.0,403,cheese,Cheese Gauda Marianna,cheese
+ԼՈԼԻԿ ՋԵՐՄՈՑ ԿԳ,637.147054631829,702,tomatoes,Tomato greenhouse kg,tomatoes
+Դոնդող տորթ Sweety Lab բաժակ 250գ,449.827127659574,910,dessert,Jelly cake Sweety lab cup 250 g,dessert
+Լոլիկ Չերի կգ,1751.25,811,tomatoes,Tomato Cherry Kg,tomatoes
+Պանիր հալած Գաուդա 400գր,1651.42857142857,406,cheese,Cheese Melted Gauda 400 G,cheese
+ԲՐԻՆՁ  ԲԱՍՄԱՏԻ 1կգ,1230.0,1806,rice,Rice Basmat 1 kg,rice
+ՌՈԼ ԱԹԵՆՔ,1870.0,1601,else,Roll Athens,else
+Գ/Ք Դրաժա Չամիչով,2168.16666666667,1806,dessert,C / c / s with a raisins,dessert
+Լոլիկ  Չերրի 1կգ,2019.97755331089,702,tomatoes,Tomato Cherry 1 kg,tomatoes
+Զեյթուն հարբած բալ,2050.0,1905,dessert,Zeytun drunk cherry,dessert
+Բարեկենդան   Բրինձ շոգեհարած  0.5կգ,390.0,1902,rice,Carnival rice steamed 0.5 kg,rice
+"Բրինձ կլոր""Giza""1կգ",669.8755,1006,rice,"Rice round ""Giza"" 1 kg",rice
+Տոմատ Tasty food 1կգ,800.0,2103,tomatoes,Tomat Tasty Food 1 kg,tomatoes
+Պանիր շերտավոր «Վիտակո» 200գ,780.0,406,cheese,"Cheese Lady ""Vripper"" 200 g",cheese
+Մինի Բուրգեր Ժելե 10գր,90.0,1704,dessert,Mini Pyraments Jelly 10 Gr,dessert
+Գարեջուր  Արարատ   0.5լ.,440.0,2203,beer,Beer Ararat 0.5 L.,beer
+Պանիր 'ՍԱՐՈ' հատ չանախ 51.5%,1742.90322580645,406,cheese,Cheese 'Saro' pieces 51.5%,cheese
+ԲՐԻՆՁ ԿԼՈՐ ՍՄԱԿ 900ԳՐ,799.0,1102,rice,Rice Round Smak 900 gr,rice
+"Գարեջուր ""Warsteiner"" Ապակի 0.33լ ",720.0,2203,beer,"Beer ""Warsteiner"" glass 0.33 l",beer
+Top sun տոմատ 1կգ,918.181818181818,2002,tomatoes,Top Sun Tomat 1 kg,tomatoes
+Գարեջուր Դիլիջան 1լ,780.0,2203,beer,Beer Dilijan 1 l,beer
+Ընդեղեն  RIFAI  150գ թ/տ կծու միքս,3550.0,2008,dessert,Area Rifai 150 g / t Spicy Mix,else
+"Գարեջուր «Կոզել» 0,5լ.",470.0,2203,beer,"Beer ""Wasteless"" 0.5 l.",beer
+Աթենք Սլավոնական,2500.0,1602,meat,Athens Slavonic,else
+Բրինձ Անուշ Լինի թայլանդական շոգեմշակված,654.10071942446,1006,rice,Rice is a Thai steamed,rice
+Բրինձ բասմատի «Միստրալ» 500գր,1673.90881226053,1006,rice,"Rice Basmati ""Mistral"" 500gr",rice
+ԵՓԱԾ ԽՏ.ԿԱԹ ՄԱՔՍԻՄՈՒՄ ԾՅՈՒՊԻԿ 250Գ,450.0,405,dairy,Cooked CT. Customs Maxim Tsupik 250 g,meat
+Պանիր Վիոլա Շերտավոր 150գ,730.0,406,cheese,Cheese Viola Layered 150 g,cheese
+"Հալած պանիր ""Bonfesto"" Mozzarella 250",1750.0,406,cheese,"Melted cheese ""Bonfesto"" Mozzarella 250",cheese
+ԱՐևԱԾԱՂԻԿ ԱՊԱՉԻ 9546,1838.24,2104,else,Sunflower Apachi 9546,else
+Լոլիկ Չերի Լայմ Գրուպ Կգ-Ով,2290.0,702,tomatoes,Tomato Cherry Lime Group Kg,tomatoes
+Պանիր  մոցառելա  կգ,3093.7037037037,406,cheese,Cheese Mozzarella Kg,cheese
+գարեջուր Բելի Մեդվեդ 0.449լ,400.02,2203,beer,Beer Beel Medved 0.449 l,beer
+Գարեջուր Corona extra 355մլ,671.304347826087,2203,beer,Beer Corona Extra 355 ml,beer
+Չոկո Պայ մանգո  360գ,960.0,1905,dessert,Choko Pay Mango 360 g,dessert
+թեսթ Օվուլ.  /One step,200.0,9619,else,TEST OVUL./ One Step:,dairy
+ԳԱՐԵՋ. ԿԻԼԻԿԻԱ ԲՈՉԿԱ 1Լ,700.0,2203,beer,Beer.Cilicia Bochka 1 liter,beer
+ԼՈԼԻԿ ՏԵՂԱԿԱՆ Կ.Գ,710.946502057613,702,tomatoes,Tomato Local KG,tomatoes
+ԲՆ. ՀՅՈՒԹ ՍԻՍ 1.65Լ,838.461538461539,2202,else,Apt.Juice Sis 1.65 l,else
+ՏՈՆԱԿԱՆ ԼՈՒՅՍ ԱՍՏՂ 28Լ ND-36,1500.0,101,else,Holiday light star 28 l ND-36,else
+Պանիր հալած Վիտակո ապուխտով 50% 8հա,531.754385964912,406,cheese,Cheese Melted Vapito Abukho 50% 8 ha,cheese
+Լոլիկ 1  ԿԳ,372.222222222222,2001,tomatoes,Tomatoes 1 kg,tomatoes
+Օղի ԿՈՐՈՆԱ 0.7լ օրգինալ,3600.0,2208,else,Vodka Corona 0.7 l Orinal,beer
+Պանիր Baltais Kremsiers 51% 150գ,1272.77777777778,406,cheese,Cheese Baltais Kremsiers 51% 150 g,cheese
+Տոմատ/0.33կգ/(Յուգ),350.0,2002,tomatoes,Tomat / 0.33 kg / (Yug),tomatoes
+Ժելե Ռուսկի Պրոդուկտ ելակի համով 50գր,280.0,2106,dessert,Jelly Rusky Product Product Strawberry Taste 50g,dessert
+Կաթնաշոռ Պրոստակվաշինո 110գ,470.0,403,dairy,Cottage cheese Jabrashino 110 g,cheese
+KILIKIA  բան.  0.5լ.,430.0,2203,beer,Kilikia thing.0.5 l.,else
+Պանիր  ZANETTI  pecorino pepato (2619) կգ,15500.0,406,cheese,Cheese Zanetti Pecorino Pepato (2619) kg,cheese
+Պանիր Կատնա Չեչիլ Հաստ 135գ,860.0,1806,cheese,Cheese Katna Chechil thick 135 g,cheese
+Տոմատ  Հոմելանդ 0.270 կգ,480.0,2002,tomatoes,Tomat Homeland 0.270 kg,tomatoes
+ԼՈԼԻԿ ՉԵՐԻ ԼՈՒԿԱՇ670գ,1150.0,101,tomatoes,Tomato Cherry Lukash 670 g,tomatoes
+ԽՏ.ԿԱԹ ՌՈՒՍԼԱԴԱ ԷՓԱԾ,720.0,402,dairy,CTHAT RUSLADA VERPED,dairy
+Գարեջուր Baltika 7 ա/տ 0.5 լ,580.0,2203,beer,Beer Baltika 7 a / t 0.5 l,beer
+Փայտ Ականջի Մանկական Չերի,440.0,3005,else,Wooden Ear Children,else
+Զեֆիր Մագնոլիա յուժնայա կգ 61/62/10,2236.25,1905,dessert,Zephir Magnolia Yuzhnaya Kg 61/62/10,else
+Չերի լոլիկներ 0.72կգ /Գլոբուս,700.0,2001,tomatoes,Cherry tomatoes 0.72 kg / globe,tomatoes
+Թթու պղպեղ դեղին/լցոնած պանրով/(Աթհենա),3100.0,2004,else,Sour pepper with yellow / stuffed cheese / (Athena),cheese
+"Կիլկի Գոսպոդառոչկա 250գ բացիչով,տոմատի",450.0,1604,meat,"Kilki Gospodchocka with 250 g opener, tomato",tomatoes
+"Պանիր Չանախ ""Գորիսի"" կգ Ը",1752.27272727273,406,cheese,"Cheese Chanakh ""Goris"" KG",cheese
+Կաթնաշոռային մթերք Արարատյան  200գ,460.0,406,dairy,Cottage cheese Food Ararat 200 g,cheese
+Կաթնամթերք Չեմպիոն Թան 330մլ,160.0,403,dairy,Dairy Champion Tan 330 ml,dairy
+Հրուշակ փախլավա,450.0,1905,dessert,Confectionery phase,dessert
+"Ժելե Մայամա ազնվամորի,սև հաղարջ 70գ",140.0,2007,dessert,"Jelly Mayama Raspberries, currant 70 g",dessert
+ՖԱՆԱՐ MS-200,2389.0,8513,else,Fanari MS-200,else
+"Թխ,Մանկիկ 140գ Դարոյնք",220.0,1905,dessert,"Base, baby 140 g Daroink",dairy
+Գարեջուր Տրյոխգորնոե օրիգինալ էլ 1լ,1196.34146341463,2203,beer,Beer Trichgornoe Original El 1 l,beer
+Բրինձ երկար «Մոյա Սեմյա» Պակիստան 0.5կգ,370.0,1006,rice,"Rice long ""Moya Semia"" Pakistan 0.5 kg",rice
+Բրինձ շոգեհարած Նուր ջան բասմատի 1000գ,1340.0,713,rice,Rice steamed Nur Jan Basmat 1000 g,rice
+Ռահատ լողում 300գ վարդ,590.0,1704,dessert,300 g of rose floating,else
+ԼՈԼԻԿ ԸՆՏԻՐ ԿԳ 985,940.205,805,tomatoes,Tomato Sleek kg 985,tomatoes
+Բրինձ երկար Գուդվիլ 800գր,1150.0,1006,rice,Rice long gudwill 800 gr,rice
+Ժելե Ռուսկի պրոդուկտ բալ 50գ,290.0,3503,dessert,Jelly Russian Product Berry 50 g,else
+բրինձ Մոյա սեմյա 1կգ գոլդ,830.0,1006,rice,Rice Moya Semi 1 kg Gold,rice
+Լոլիկ / Չերի,2769.23076923077,702,tomatoes,Tomato / Cherry,tomatoes
+"Գարեջուր Կարոնա , ա/շ, 0,355լ",730.0,2203,beer,"Beer Carona, a / sh, 0.355 l",beer
+Գարեջուր Նատախտարի պ/տ 1լ,940.0,2203,beer,Beer Natakar P / T 1 l,beer
+Ապարանի թան 0.5լ գազավորված,220.0,403,dairy,Aparan Tan 0.5 l Carbonated,else
+Պանիր կգ Սուլուգունի,4150.0,406,cheese,Cheese kg Suluguni,cheese
+Գարեջուր Կոզել թ/տ. 0.5լ,471.898734177215,2203,beer,Beer Wasteway / T.0.5 l,beer
+"Ռուլետ, մրջնաբ.,նուտելա,...",2050.0,1102,dessert,"Roulette, anthlea, Nutela, ...",dessert
+Հրուշակ Ղադաեֆ/Բողչա,370.0,1905,dessert,Confectionery Ghadaef / Complaints,dessert
+Գարեջուր Գյումրի գոլդ 330մլ,370.0,2203,beer,Beer Gyumri Gold 330 ml,beer
+Դոնդող արագ պատրաստման ազնվամորու 50գ Ռ.Պ.,300.0,1905,dessert,Jelly fast preparation raspberries 50 g of R.P.,dairy
+Ժելե <<Hitschies>> Saure Drchenzung,840.0,1806,dessert,Jelly << Hitschies >> SAURE Drchenzung:,dairy
+Լոլիկ ճյուղով  կգ,1422.14371257485,702,tomatoes,Tomato Branch Kg,tomatoes
+Բրինձ  Granum Trade  0.8kg,850.0,1006,rice,Rice granum trade 0.8kg,rice
+Պոմիդոր Հրազդան էժան,945.0,702,tomatoes,Cheap tomato Hrazdan,tomatoes
+Ֆիլե տավարի սառեցված,2750.0,1601,meat,Fillet beef frozen,meat
+Բրինձ Գրանում Թրեյդ 800գ,855.0,1006,rice,Rice Grandmut Trade 800 g,rice
+ելակ կգ,1700.0,810,dessert,Strawberry Kg,dessert
+բլյուդ կանաչ*սպիտակ օվալ փոքր,2129.865,7013,else,Blue Green * White Oval Small,else
+թխվ Lovita 127g,305.833333333333,1905,dessert,թխվ Lovita 127g,dairy
+"Գարեջուր Հոլստեն 0,5լԴանիա",670.0,2202,beer,Beer Holsten 0.5 Ldia,beer
+Լոլիկ չերի դեղին կգ,1944.08242362525,702,tomatoes,Tomato Cherry Yellow Kg,tomatoes
+Դոնդող Անուշ լինի 50 գ 0090,440.0,1704,dessert,Jelly Anush is 50 g 0090,dairy
+ՊՈՄԻԴՈՐ ՉԵՌԻ 730 730,1432.85263157895,702,tomatoes,Pomeror Chern 730 730,else
+Բրինձ հղկված երկարահատիկ գոլորշիով,1250.0,1007,rice,Rice polished with lengthened steam,rice
+ԲՐԻՆՁ ԲԵՏԵՐ 1ԿԳ ՏՈՒՓ,740.5,1006,rice,Rice Better 1 kg box,rice
+Բրինձ <<Мистраль>> շոգեխաշած/երկարա,1328.42105263158,1008,rice,Rice << Mistral >> Steamed / long,rice
+Բրինձ «Մոյա Սեմյա» 500գ,450.0,1006,rice,"Rice ""Moya Semiah"" 500 g",rice
+Ռուլետ ջեմով,800.0,1704,dessert,Roulette jamov,cheese
+"Դիլիջան գազավորված ջուր 0,5լ.",150.0,2201,else,Dilijan carbonated water 0.5 l.,dairy
+Լոլիկ Սև կգ,4550.0,210,tomatoes,Tomatoes black kg,tomatoes
+Ժելե դեսերտ Ջելի ֆոն 50գ,160.0,1806,dessert,Jelly Dessert Jelly background 50 g,dessert
+Վ զի միս,8350.0,1601,meat,V,else
+Դոնդող Ռուսկի Պրոդուկտ 50գ.,270.0,1702,dessert,Jelly Russian Product 50 G.,else
+"Գարեջուր 0,33 1",850.0,2208,beer,Beer 0.33 1,beer
+Ծխախոտ Լեկս կլասիկ սուպե...,500.0,2401,else,Cigarette Lex Classic Super ...,else
+"Շտրիխ ""Yalong"" 93011/UL-192533",160.0,3926,else,"Barcode ""Yalong"" 93011 / Ul-192533",beer
+Կաթնաշոռային պանիր Մարիաննա Սերուցքային 60% 300գր,891.974789915967,406,dairy,Cottage cheese Marianna 60% 300 gr,cheese
+Շոկ/սալիկ  Vdoxnovenie 100գ  «ՄԱՍԿՎԱ»,610.0,1806,dessert,"Shock / Tile Vdoxnovenie 100 g ""Maskva""",dairy
+Բրինձ  India Gate Բասմատի  1kg,1676.0,1006,rice,Rice India Gate Basmate 1kg,rice
+ԳՐ ԴԵՍԵՐՏ ՍՊՏ 200Գ,595.367231638418,403,dessert,GR DESERT SPT 200 g,else
+ՌՈՒՍ. ՊՌՈԴՈՒԿՏ ԺԵԼԵ  50գ,248.780487804878,2007,dessert,Russian.Product Jelly 50 g,else
+Բրինձ Բարեկենդան երկար 500գր,376.363636363636,1006,rice,Rice carnival long 500gr,rice
+Մանկ. աբադոկ Cherry 12-10,1120.0,9615,else,Child.Abadok Cherry 12-10,dessert
+Գարեջուր BierStandart Բայլերնոե չզտված 3,3400.0,2203,beer,Beer Bierstandart Bayeroe Unrefined 3:,beer
+"Պանիր ""Burger"" չեդեր/կաթն 200գ",820.0,406,cheese,"Cheese ""Burger"" Chedder / Milk 200 g",cheese
+"Կեֆիր Բոնիլատ  2,5 %  0,45 լ",390.0,403,dairy,Kefir Bonilat 2.5% 0.45 l,dairy
+Վան  Բուլանժե մատնաքաշ,200.0,1905,else,Van Bouanzhe Finger,else
+ԿԱՄՊՈՏ ԱՐԱՐԱՏ 1Լ,780.0,2007,else,Kampot Ararat 1 l,beer
+0403 - ՍՈՖՅԱ ԹԱՆ ԳԱԶԱՎՈՐՎԱԾ 500ՄԼ,160.0,403,dairy,0403 - Sofya Tan carbonated 500 ml,dairy
+Պանրի կծիկ Էր_մա,400.0,406,cheese,Was a cheese coil_ma,cheese
+Arla պանիր հալած 200գ,900.0,406,cheese,Arla cheese melted 200 g,cheese
+Միստրալ Բրինձ Ակվատիկա 500գր,6850.0,1006,rice,Mistral Rice Aquatics 500 gr,rice
+Խտ.կաթ 370գ եփած Վարյոնկա Գուստյար,760.0,402,dairy,CTHAT 370g Cooked Capital Gustyar,meat
+Բրինձ Մարկալ Բիո սև 500գր,2984.02631578947,1006,rice,Rice Maral Bio Black 500 gr,rice
+Լոլիկ բիբարանման բաժակով հատ,2206.92307692308,2008,tomatoes,Tomato pepper cup,tomatoes
+Բրինձ կլորահատիկ կգ,660.528375733855,1006,rice,Rice Round Kg,rice
+Բրինձ օտ Գուռմանա կլոր 450գ,451.312849162011,1006,rice,Rice Ott Gurmana Round 450 g,rice
+"Մածուն Արզնի Կաթ 3,2 % բաժակ 950 գ",630.0,403,dairy,Yogurt Arzni Milk 3.2% cup 950 g,dairy
+"Գարեջուր Կիլիկիա, 12.06,թ/տ, 0,5լ ",450.0,2202,beer,"Beer Cilicia, 12.06, 0.5 l",beer
+0406 - Բիոթթվասեր+բիոկաթնաշոռ «Մարիաննա» Բ,540.0,406,dairy,"0406 - Biotnashor + Biocnashor ""Marianna"" b",else
+բրինձ Մառանիկ 1կգ դասական,1285.71428571429,1006,rice,Rice Maranik 1 kg Classic:,rice
+569/Պանիր Լոռի Վիվա կգ,2625.0,406,cheese,569 / Cheese Lori Viva Kg,cheese
+Պանիր Valio կաթնաշոռային 180գ,800.0,406,cheese,Cheese Valio Cottage Cheese 180 g,cheese
+Բրինձ պայթեցրած 30գր. 3D,100.0,1905,rice,Rice blew 30 gr.3D,rice
+Տոմատ Հոմլենդ 1կգ,1020.0,1604,tomatoes,Tomat Homland 1 kg,tomatoes
+Պանիր Հոխլանդ Ֆետակսա 200գ,1750.0,406,cheese,Cheese Hokland Fapaksa 200 g,cheese
+ԿԵՖԻՐ 0.5% 0.9Լ,660.0,1806,dairy,Kefir 0.5% 0.9l,dairy
+Լոլիկ  չերի 1500,1500.0,702,tomatoes,Tomato Cherry 1500,tomatoes
+Խաղող Արմենիա կգ,4250.0,806,dessert,Grapes Armenia Kg,else
+Ելակ 1կգ,2300.0,810,dessert,Strawberries 1 kg,dessert
+Պանիր Չանախ Ice House կգ,2390.0,406,cheese,Cheese Chanakh Ice House Kg,cheese
+Բրինձ Կլոր Ստեպ 900գ,660.0,1806,rice,Rice round Step 900 g,rice
+Մ.Սեմյա Բրինձ թայլանդ 1կգ,820.0,1006,rice,M.SAIA Rice Thailand 1 kg,rice
+Պոմիդոր 1300 193,1300.045,702,tomatoes,Pomidor 1300 193,tomatoes
+ԼՈԼԻԿ ԱՆԱՀԻՏ  ԿԳ,921.994411764706,702,tomatoes,Tomato Anahit Kg,tomatoes
+Բրինձ Ժասմին 1կգ,800.0,1006,rice,Rice Jasmine 1 kg,rice
+Բալ Տորթ 400գ,2200.0,1905,dessert,Cherry cake 400 g,dessert
+Եղեգնաձորի Պանիր 300գր,550.0,406,cheese,Yeghegnadzor cheese 300 gr,cheese
+Պանիր Դիլի Բուրրատա 125գ,1775.12396694215,406,cheese,Cheese Dili Burrata 125 g,cheese
+"Կալիմար Ռուսսկի ռիբնիյ միր,բնական,թ/տ 25",460.0,1604,meat,"CALARY RUSSIA RIBNI MIR, Natural, T 25",rice
+"Գարեջուր «Կիլիկիա» 4,8% թ/տ 0,45լ",472.307692307692,2203,beer,"Beer ""Cilicia"" 4.8% / t 0.45 l",beer
+ԿԵՖԻՐ ԴԻԵՏԻԿ ԲՈՆԻԼԱՏ 0.5% 0.5L,370.0,403,dairy,Kefir Diet Bonilat 0.5% 0.5L,dairy
+"Գարեջուր Նատախտարի 1լ,",920.0,2203,beer,"Beer Natakar 1 l,",beer
+Թան Սոֆյա ոչ գազավորված ...,200.0,403,dairy,Tan Sofia's non-carbonated ...,dairy
+Հալած պանիր Պրեզիդենտ Գրեկո 250գ,1488.67647058824,406,cheese,Melted Cheese President Greco 250 g,cheese
+Տորթ Միքս 760գ Գ/Ք,2770.0,1905,dessert,Cake mix 760 g c / c,dessert
+ՇՈԿ.ՍԱԼԻԿ ՌՈՇԵՆ ԼԱԿՄԻ 90Գ,400.0,1806,dessert,Shock. Salik Rocher 90 g,cheese
+Կաթնաշոռային դեսերտ «Չուդո» բալի-կե,450.0,403,dessert,"Curd dessert ""Chudo"" cherry",dessert
+Կաթնաշոռ 0% 400գ Բիոկաթ,964.345794392523,403,dairy,Cottage cheese 0% 400 g biocat,cheese
+"""Ստելլա Արտուա"" գարեջուր 0,5լ ժ/բ",560.0,2203,beer,"""Stella Artua"" beer 0.5 l",beer
+Ցիկորի  Զոլոտոյ մասուր 100 գ.,1190.0,902,else,Tsicori Zolotto Masier 100 g.,meat
+Գարեջուր Պերոնի Նաստրո Ազզուրո բաց ա/տ 0,701.451612903226,2203,beer,Beer Peron Naszuro Open A / T 0,beer
+Գարեջուր Բուդվայզեր Թ/տ 5լ,10590.0,2203,beer,Beer Budwayser T / T 5 l,beer
+Բրինձ Յարմարկա Կլոր 800/700գր,1155.63285714286,1006,rice,Rice Yarmarka Round 800/700 gr,rice
+ՆԱՆԱ+ ՄՅԱՏԱ,700.0,2101,else,Nana + Meta,else
+Գ/Ք լոխում 250գր վարդ,520.0,1704,dessert,C) 250 g of Rose in Loch,else
+Պանիր ապխտած Сыраделы թթվասեր սոխ 25գր,270.0,101,cheese,Cheese smoked sыradelы sour cream onions 25 g,cheese
+Պանիր Պրեզիդենտ Գրեսո աղաջրային 45 % 230 գ,1640.0,406,cheese,Cheese President Gresso Grayer 45% 230 g,cheese
+Chok-ki Ձողիկ Գլազուրապատ 40գր․,250.0,1905,dessert,Chok-Ki Stick Glazur 40 gr.,cheese
+Ոսկե շուշան թխ․/ընկույզ Կոնտի կգ,2750.0,2106,dessert,Gold lily baked. / Walnut Kanti Kg,dessert
+Պանիր Չեչիլ թել գունավոր Մարիաննա 150գ,690.0,406,cheese,Cheese Chechil Thread Color Marianna 150 g,cheese
+"Թան շիշ 0,5 լ",220.0,403,dairy,Tan Bottle 0.5 l,beer
+Պանիր «Իգիթ» Լոռի Կգ,3237.11417816813,406,cheese,"Cheese ""Igit"" Lori Kg",cheese
+Պանիր կտրտած «Վելդհաուզն» 150գ Մազդամ,1650.0,406,cheese,"Cheese sliced ​​""Veldhaus"" 150 g of Mazdam",cheese
+Կորժիկ Դոմաշնի 5հ 750գ,540.0,1905,dessert,5 h 750 g of corky Domashan,meat
+Պանիր Թարմ Մոցառելլա 200գ,1180.0,406,cheese,Cheese Fresh Mozzarella 200 g,cheese
+Պանիր Ռոկֆոր կգ Իգիթ Արմեն,6000.0,406,cheese,Cheese Rocchor Kg Igit Armen,cheese
+Լոլիկ  էժան կգ,605.5,702,tomatoes,Tomato Cheap Kg,tomatoes
+ՔՐՖ ՌԻՉՄՆՏ 750ՄԼ,4500.0,2204,else,Kurf Rector 750 ml,beer
+Դոնդող տորթ մրգային 900գ,1650.0,709,dessert,Jelly Cake Fruit 900 g,dessert
+Բիսկվիտ Խարկով 330գ,883.333333333333,1905,dessert,Biscuit Kharkov 330 g,else
+Չուդո  հապալաս,450.0,403,else,Chudo blueberries,dessert
+Բիո կաթ Պանիր Սուլուգունի շերտերի տեսքով,1098.9247311828,406,cheese,Bio milk cheese in the form of suluguni stripes,cheese
+"Գարեջուր մուգ «Kozel» 3.7%թնդ., 0.45լ",490.0,2203,beer,"Beer Dark ""Kozel"" 3.7% Sheet., 0.45 l",beer
+"Դոնդող ""Русский Продукт"" Ելակ 50գ",260.0,2007,dessert,"Jelly ""Russian Produk"" strawberries 50 g",dessert
+թանզիվ  1մ/Լեյկո,136.5,3005,else,TANZIVE 1 M / LEYKO,tomatoes
+Լոլիկ Չերի «Բիո Գրուպ» կգ,1912.00166666667,702,tomatoes,"Tomato Cherry ""Bio Group"" kg",tomatoes
+Ժելե «Fini» Bananas 100գ,595.0,1806,dessert,"Jelly ""Fini"" Bananas 100 g",dairy
+ԼՈԼԻԿ ՉԵՐՐԻ ՄԵԾ  կգ,1690.0,702,tomatoes,Tomato Cherry Great Kg,tomatoes
+Հալած պանիր Վիտակո նավակ 200գ,840.0,406,cheese,Melted Cheese Vripper Boat 200 g,cheese
+գարեջուր Գյումրի Էքստրա  0.5 լ շիշ,460.0,2203,beer,Beer Gyumri Extra 0.5 l bottle,beer
+Գարեջուր Ստելլա Առտուա 0.33լ,520.0,2203,beer,Beer Stella Aritya 0.33 l,beer
+Բրինձ թաիլանդ շոգեմշակված,548.666666666667,1006,rice,Rice Thailand Steamed,rice
+Գարեջուր HB Weisse 0.5լ ժ/բ,1350.0,101,beer,Beer HB Weisse 0.5l h / b,beer
+Վերամշակված պանիր Դրուժբա 55% 80գ,430.0,56,cheese,Processed Cheese Deterga 55% 80 g,cheese
+Պանիր Իլ Դե Ֆրանս Բրի Նորմանտալ շերտեր,2184.78260869565,406,cheese,Normal layers of the cheese Il de France Brile,cheese
+Բրինձ Բասմատ բուկետ 1կգ,994.285714285715,1006,rice,Rice Basmat Buket 1 kg,rice
+Կափարիչներ ''Հայուհի'' հատ,25.0,3924,else,Covers' 'Armenian' pieces,else
+Բրինձ բասմատ Բուկետ 1կգ,1100.0,1008,rice,Rice Basmat Buket 1 kg,rice
+Պանիր Հոխլանդ Վեչինա 200գ,1195.0,406,cheese,Cheese Hokland Vechina 200 g,cheese
+ձավար կգ թանկ,244.298245614035,1103,else,graink kg expensive,else
+ՔՐՖ ՍԱԼՍԻՖԻՍ 720ՄԼ,2050.0,2005,else,Krf Salciis 720 ml,dairy
+Բրինձ Գոլդեն Թաիլանդ Մառանիկ 500գ,810.0,1006,rice,Rice Golden Thailand Maranik 500 g,rice
+"Բրինձ երկար ""Բարեկենդան"" Էկոնոմ 0.4կգ",240.0,1006,rice,"Rice long ""Carnival"" economy 0.4 kg",rice
+Գարեջուր  Բավարիա 0.5 թ/տ,540.0,2203,beer,Beer Bavaria 0.5 / t,beer
+Մառանիկ Բարեկենդան բրինձ 1կգ,669.230769230769,1006,rice,Maranik Carnival Rice 1 kg,rice
+Բրինձ ԲԱՐԵԿԵՆԴԱՆ կլոր 0.5կգ,534.907692307692,1006,rice,Rice carnival round 0.5 kg,rice
+Ռուլետ,300.0,1905,dessert,Roulette,else
+Պանիր հալած Պրեզիդենտ 400գ,1806.66666666667,406,cheese,Cheese Melted President 400 g,cheese
+Երկար բրինձ Գուդվիլ 800գ,1116.66666666667,1006,rice,Long rice Goodwill 800 g,rice
+Բրինձ Բեթեր շոգեխաշած 1կգ,800.0,1006,rice,Rice bester steamed 1 kg,rice
+Բրինձ գոլդեն 500գր / Բարեկենդան,420.0,1006,rice,Rice Golden 500 gr / Carnival,rice
+Կորսետ Չերի,690.0,2403,else,Corset Cherry,dessert
+0401-Հալած պանիր Վիոլա շերտավոր բուրգեր 150գր,730.0,401,cheese,0401-Melted Cheese Viola Striped Pyramids 150 gr,cheese
+Քաղցրաշոռ Անի 90 գր,300.0,406,dairy,Kiddonds Ani 90 g,dairy
+Տոմատ/1կգ/(Տոպ Սան),920.0,2002,tomatoes,Tomat / 1 kg / (Top San),tomatoes
+Լոլիկ  Տեղական կգ,870.633484162896,702,tomatoes,Tomato local kg,tomatoes
+ԺԵԼԵ ՖԻՆԻ 100Գ ՄԱԳԻՔ ՔԱՐՊԵՏՍ,612.5,2007,dairy,Jelly Finish 100 g Magic Carpet,dairy
+Գարեջուր <<Dilijan>> դասական 4.6% 1լ,790.0,2203,beer,Beer << Dilijan >> Classic 4.6% 1 liter,beer
+Գարեջուր Ստառի մելնիկ Սվետլի 0.5լ,531.428571428571,2203,beer,Beer Melnik Svetley 0.5 l,beer
+Գարեջուր Gyumri Gold 1լ,760.0,2203,beer,Beer Gyumri Gold 1 l,beer
+Թան Սարո 0.5լ,170.0,403,dairy,Tan Saro 0.5 l,else
+ՍՈՒՐЦ  ДՈԿԵՅ ԱՐԱԲԻԿԱ,3807.14285714286,901,else,Sharp C: А дկkeeAi Arabica,beer
+Իգիթ չեչիլ պանիր,3190.0,406,cheese,Igit Chechil Cheese,cheese
+ԼՈԼԻԿ ԽՈՇՈՐ,1046.52256083156,702,tomatoes,Tomatoes are large,tomatoes
+գառմոշկա 0101,450.0,9503,else,Germoshka 0101,meat
+Պանիր Չեդր 963,4190.55142857143,406,cheese,Cheese Chedrir 963,cheese
+Դեսերտ կաթնաշոռային EPICA 125գ Մամա լամա բանան 5,594.545454545455,406,dessert,Dessert Cottage Cheese Epica 125 g Mama Lama Banana 5:,dessert
+Բարս Կիլկա Տոմատով Բանալի 118գ,790.0,1604,meat,Bars Kilka Tomatov Key 118 g,beer
+Ժելե/100գ/(Տրոլլի),558.333333333333,1704,dessert,Jelly / 100 g / (trolly),else
+Բրինձ երկար Օտ Գուրմանա 450գր,366.0,1104,rice,Rice long Ott Gurmana 450 gr,rice
+Պանիր President Մաազդամ-140գ,720.0,406,cheese,Cheese President Maazdam-140 g,cheese
+Յաշկինո  Տարալլինի Նինա Ֆարինա  180Գ,320.357142857143,1905,dessert,Nina Farina of Yashkina Caralini 180 g,meat
+Բրինձ բասմատի 500գ Maltagliati,1120.0,1902,rice,Rice Basmat 500 g of Maltagliati,rice
+ԳՈՒԼՊԱ ՊՏ. ՍՊԻՏԱԿ J-5504 31-34,490.0,6115,else,Socks Pt.White J-5504 31-34,dairy
+Թան «Մարիաննա» 900գ 1.4%,470.0,403,dairy,"Tan ""Marianna"" 900 g 1.4%",else
+1604 - ԿԻԼԿԱ ԲԱԼՏՅԱՆ ՏՈՄԱՏԻ 230Գ,470.0,1604,meat,1604 - 230 g of Cylika Balt Tomato,tomatoes
+Գարեջուր Dargett Stout  0.33լ,680.0,2203,beer,Beer DARGETT STOUP 0.33 l,beer
+Բոնդյուել Լոլիկ Չերրի 720մլ Գլոբուս,1080.0,2001,tomatoes,Bonduel Tomato Cherry 720 ml Globe,tomatoes
+Անուշ լինի դոնդող 50գ,450.0,2007,dessert,Anush is a jelly 50 g,else
+Կաթնաշոռ Չանախ 0.6% 180գր,580.0,404,dairy,Cottage cheese Chanakh 0.6% 180 g,cheese
+"""Բարեկենդան"" բրինձ սպիտակ երկար 0,5կգ",350.0,1006,rice,"""Carnival"" rice white long 0.5 kg",rice
+Պանիր Չանախ ակցիա  կգ,1050.0,405,cheese,Cheese Character Action Kg,cheese
+Թան 0.5լ Սոֆիա կաթ,200.0,403,dairy,Tan 0.5 l Sofia Milk,dairy
+Մթերք հալած ապխտած Յանտար  կգ,1008.18181818182,406,cheese,Food melted smoked yanar kg,meat
+Դոնդող նարնջի «Ռուսսկիյ Պրոդուկտ» 50գր,280.0,2007,dessert,"Jelly Orange ""Rusky Product"" 50 gr",dessert
+Մառկեռ 07101,260.0,4820,dessert,Moldle 07101,dairy
+Մուրաբա Արտֆուդ բալ ա*տ 450գ,959.571428571429,2006,dessert,Muraba Artfood Cherry A * T 450 g,dessert
+Գարեջուր  <Ստելլա>  0.33լ,540.0,2203,beer,Beer <Stella> 0.33 l,beer
+Արարատ Գարեջուր 0.5 լ,450.0,2203,beer,Ararat Beer 0.5 l,beer
+Գարեջուր «Kotayk» 1լ Gold,710.0,2203,beer,"Beer ""Kotayk"" 1 l Gold",beer
+Պանիր սերուցքային Marianna 300g,890.0,407,cheese,Cheese Cream Marianna 300G:,cheese
+Թխվածք. Mcvities Lemon 100գր,370.0,101,dessert,Cake.McVities Lemon 100 g,dessert
+Կաթ Պարմելաթ 1.5% 1000մլ.,1000.0,401,dairy,Milk Parmelat 1.5% 1000 ml.,dairy
+Հալած պանիր Աշտարակ կաթ 100գ,330.0,406,cheese,Melted Cheese Tower Milk 100 g,cheese
+ժելե Ռուսկիյ Պրոդուկտ 40գ ցիտրուսային միքս,300.0,910,dessert,Jelly RUSKIA PRODUCT 40 g Citrus Mix,dairy
+ԿԱԹՆ ԹԱՆ ԱՊԱՐԱՆ+ ԳԱԶՈՎ 500ՄԼ,230.0,403,dairy,Milk Tan Aparan + gas 500 ml,dairy
+Թան Բոնիլատ 1.5% 0.3լ,200.0,403,dairy,Tan Bonilat 1.5% 0.3 l,beer
+Բուրգ բադիկով 9կտ 0903A-8,750.0,9504,else,Pyramid duck with 9 kts 0903A-8,meat
+Բրինձ круглозерный  800գ /Гудвилл/,1200.0,1006,rice,Rice Kruglozernnyi 800 g / Gudvil /,rice
+Խարտոց Բի ԲԻ 0108,410.0,9603,else,Character Bi BI BI 0108:,else
+Թեյ «Կարկադե» 80գ,500.0,902,else,"Tea ""Carced"" 80 g",dairy
+Ժելե տրոլլի սաուր սթրիփս 85գր ելակ*24,630.0,1704,dessert,Jelly Troll Saur Strips 85 g Strawberries * 24:,dairy
+"Մածուն Բիո Կաթ, յուղ. 1%, 450 մլ",330.0,403,dairy,"Yogurt bio milk, fat.1%, 450 ml",dairy
+Մուրաբա <Արտֆուդ> 450գ սպիտակ կեռաս,1170.0,2007,dessert,Muraba <Artfood> 450 g White cherries,dessert
+Կաթնաշոռ Արարատյան Կաթ 1կգ,1740.0,403,dairy,Cottage cheese Araratyan Milk 1 kg,cheese
+Կաթնաշոռային արտադրանք  ՊՐՈՍՏՈԿՎԱՇԻՆՈ  130գ դեղձ,570.0,406,dairy,Cottage cheese products Prostokvashino 130 g Peach,cheese
+սոչնիե յագոդի ժելե,1643.47826086957,1806,dessert,Sochny Jagod Jelly,dairy
+Տաժեմնիցի Օգրեդ թ/բլիթ 180գր | 12հատ | ՊՐՄ,720.0,1905,dessert,Tajemen Augred T / Cake 180 gr |12 pieces |Prm,dessert
+ԼՈԼԻԿ ՉԵՐԻ ԿԳ,1850.0,702,tomatoes,Tomato Cherry Kg,tomatoes
+"Թան  Բոնիլատ  1լ  1,5%",420.0,401,dairy,Tan Bonilat 1 l 1..5%,else
+Պանիր Գրան Պադանո 200գ,2850.0,406,cheese,Cheese Grand Padano 200 g,cheese
+"Բրինձ Այլոֆթ 500գ շագանակագույն,վայրի",780.0,1006,rice,"Rice Otheroft 500 g Brown, wild",rice
+Սննդի վակում 3-1012,450.0,8213,else,Food Vacences 3-1012,else
+Գարեջուր Flensburger Pilsener ժ/բ 0.5լ,840.0,2208,beer,Beer Flensburger Pilsener: 0.5 l,beer
+"Դոնդող Լավկա , բալի 50գր.",200.0,2007,dessert,"Jellyava, cherry 50 gr.",dessert
+Պանիր Կալլեհ Պարմեզան կգ,9590.0,406,cheese,Cheese Kalleh Parmesan Kg,cheese
+ԲՐԻՆՁ ՍՈՒՐԻՆԱՄ 1ԿԳ,1520.0,1008,rice,Rice Suriname 1 kg,rice
+Գարեջուր Bavaria թիթեղյա տարա բացիչով 0.45լ,570.0,2203,beer,Beer Bavaria tined container 0.45 l,beer
+Կոտայք  0.5լ  գարեջուր,470.0,2203,beer,Kotayk 0.5 l Beer,beer
+Գարեջուր  Leffe Blonde   0.33լ.,790.0,2203,beer,Beer Leffe Blonde 0.33 l.,beer
+Բրինձ ՛՛Մոյա Սեմյա՛ ՛500գ,420.0,1006,rice,Rice Moya Semiah 500 g,rice
+Պանրիկ  50գր.  PerPery,240.0,405,cheese,Cheese 50 gr.Perpery,cheese
+Գարեջու Ստելա 0.45 Թիթեղ Ադամյում,550.0,2203,beer,Beer Stella 0.45 Tapan Adamum,beer
+Anush limwnad 0.5լ,100.0,2209,else,Anush Limwnad 0.5 լ,else
+Երեմյան 1.5% 330գ թան,300.0,403,dairy,Yeremyan 1.5% 330 g Tan,else
+Գարեջուր Կռոմբախեր մուգ 0.33լ,805.555555555556,2203,beer,Beer Krcrnbachs Dark 0.33 l,beer
+Պանիր Խինկալի 240Գ,1200.0,406,cheese,Cheese 240 g,cheese
+ՊԵՏՐՈՒԽԱ ԲԴԻԿ,1720.57473684211,207,meat,Petrukha Bdiger,dairy
+ԱՊԱՐԱՆԻ ԹԱՆ ԳԱԶԱՎՈՐՎԱԾ  Պ/Տ 0.45Լ.,200.0,403,dairy,Aparan Tan carbonated P / T 0.45 l.,else
+Բրինձ  Վոլոժկա 800գր,590.0,1006,rice,Rice Volozhka 800 gr,rice
+"Կատալինա, նիկոլ ֆոլիս 250գ",1250.0,1806,else,"Catalina, Nikol Folis 250 g",else
+Պանիր Կաթնա Լոռի  կգ,3692.0,406,cheese,Cheese Katna Lori Kg,cheese
+ԿՈՆՏԻ ԿԱԹՆԱՅԻՆ,1353.65853658537,1704,dairy,Canteen,else
+պանիր չանախ Կաթնա կգ,2601.57,406,cheese,Cheese Channakh Kg,cheese
+ԴԵՆԴՈՂ ԴԵՍԵՐՏ,300.0,1004,dessert,Dendering dessert,dessert
+0702-Պոմիդոր չերի,1379.14945378151,702,tomatoes,0702-Pomidor Cherry,dessert
+Ֆրուտետո 1․25լ ԱԿՑԻԱ,900.0,2202,dessert,Fruiteto 1.25 l ACTION,else
+Պանիր Չեդդեր <<Ferndale>> կգ,4262.98288508557,406,cheese,Cheese Cheddar << Ferndale >> Kg,cheese
+ՊԱՆԻՐ ՀԱԼԱԾ ՖԻՈՆԱ 150ԳՐ,320.0,1516,cheese,Cheese Melted Fiona 150gr,cheese
+Ժելե ազնվամորու փոշի 50գ,240.0,2007,dessert,Jelly raspberry powder 50 g,dessert
+Տորթ MUMMY'S CAKE 310գր,1080.0,1806,dessert,Cake Mummy's Cake 310 g,dessert
+ժելե Ռուսկիյ Պրոդուկտ 50գ,280.008571428571,910,dessert,Jelly RUSKIA PRODUCT 50 g,dairy
+Տորթ «Բ.Հ.»  500գ,1779.979,1905,dessert,"Cake ""BH""500 g",dessert
+Բիսկվիթ ՛՛Տիմի՛՛ 330գ,727.0,1905,dessert,330 g of sponge cake,dessert
+Ժելե Լավկա 50գ բալ,180.0,1704,dessert,Jelly Lava 50 g,dairy
+Բրինձ Միստրալ Կուբան փլավի համար սպիտակ կլորահատի,1440.0,1006,rice,Rice Mistral Cuba for pilaf white round,rice
+Բրինձ Jasmine Rice  «Մառանիկ»1կգ,1680.0,1006,rice,"Rice Jasmine Rice ""Maranik"" 1 kg",rice
+Կռոտ  Ֆլամինգո 600մլ,680.0,8215,else,Crree Flamingo 600 ml,meat
+Թան Մարիաննա նանայով 330մլ,162.083333333333,403,dairy,Tan Marianna Nana 330 ml,dairy
+Լողակ ավտ. 300մլ.,350.0,3402,else,Swimmer in AU.300 ml.,dairy
+Լոռի պանիր 1կգ. Իգիթ,2900.0,406,cheese,Lori cheese 1 kg.Igit:,cheese
+MASI TUPUNGATO PASSO DOBLE 0.75,7000.0,2204,else,MASI TUPUNGATO DOUBLE PASSO 0.75,tomatoes
+ՄԱՐԻԱՆՆԱ ԿԵՖԻՐ 450Գ,363.415497254423,403,dairy,Marianna Kefir 450 g,dairy
+Լոլիկ Չերրի գունավոր կգ,5120.58355437666,702,tomatoes,Tomato Cherry Color Kg,tomatoes
+Կեֆիր «Մարիաննա» բիֆիդո 1% 450գ,372.457879088206,406,dairy,"Kefir ""Marianna"" bifido 1% 450 g",dairy
+"Պանիր Երեմյան,Մոցառելլա կգ",4450.0,406,cheese,"Cheese Yeremyan, Mozzarella Kg",cheese
+Բրինձ կլոր սպիտակ 1կգ Անուշ լինի Գ/Ք,950.0,1103,rice,Rice round white 1 kgush sweetengie c / c,rice
+Թզբեխ աչքի ուլունգ,500.0,7117,else,CEBPIC Eye Ulunk,beer
+Թխվածք  Դարոինկ 350գ,420.0,1905,dessert,Cake Daroink 350 g,dessert
+ՊՈՄԻԴՈՐ ՉԵՐԻ  ԿԳ-ՈՎ,1422.1843003413,702,tomatoes,Pomidor Cherry Kg,dessert
+Սպիտակ բրինձ թայլանդական կգ,538.324768756423,1006,rice,White rice Thai kg,rice
+Պանիր Լոռի Ֆիոնա  կգ,1936.0,406,cheese,Cheese Lori Fiona Kg,cheese
+ՕՎ ՉԻՍՏԻՆ 0425,290.0,101,else,Ow Chessy 0425,else
+Գարեջուր ՙԲադ՚ 0.5լ թիթեղ,520.0,2203,beer,Beer duck 0.5l tin,beer
+Բրինձ SunBird դեղին 1կգ,500.441176470588,1006,rice,Rice sunbird yellow 1 kg,rice
+ՑԱՐ.  Ֆիննական,1450.0,1601,else,Tsar.Finnish,else
+Կեքս վանիլային «Օտլիչնայա Կուխնյա» 300գ,680.0,1905,dessert,"Cax vanilla ""Otlichnaya Kukhum"" 300 g",dairy
+Գարեջուր Ժիգուլյովսկոե 1լ,750.0,2203,beer,Beer Jigulovsky 1 liter,beer
+ՊՈՄԻԴՈՐ ԷԺԱՆ,290.0,709,tomatoes,Pomedor cheap,else
+ԼՈԼԻԿ ՉԵՐԻ,1608.49367088608,2009,tomatoes,Tomato Cherry,tomatoes
+ԿԱՌՈՆԱ ԳԱՐԵՋՈՒ,660.0,2203,beer,Carnon beer,beer
+Ձ/Պ Տունեց բնական 250գ թ/տ Bars,1684.09090909091,1604,meat,HOME / PACOMA Natural 250g / t Bars,else
+Պանիր հալած <<President>> մաազդամ 1,795.0,406,cheese,"Cheese Melted ""President >> Maazdam 1:",cheese
+ԼՈԼԻԿԸ ՍԵՓ.ՀՅՈՒԹԻ ՄԵՋ Ա/Ֆ 1ԿԳ,820.0,2202,tomatoes,Tomato in Sepherd in a / F 1 kg,tomatoes
+Marianna կաթնաշոռ չամիչ,220.0,406,dairy,Marianna Cottage cheese raisins,cheese
+Թան «Մարիաննա» 0.33մլ,160.0,403,dairy,"Tan ""Marianna"" 0.33 ml",else
+բարեկենդան բրինձ 500գ,350.0,1006,rice,Carnival Rice 500 g,rice
+Պանիր  ԿԱԹՆԱ Չեչիլ ապխտած 135գր,1000.0,406,cheese,Cheese Katna Chechil Smoked 135 g,cheese
+ԳԱՐԵՋՈՒՐ ՖՌԱՆԶԻՍԿԱՆԵՐ 0.5Լ,700.0,101,beer,Beer FrancismsKka 0.5 l,beer
+"""Լյուտիկ"" չերրի լոլիկներ 680գ",690.0,2006,tomatoes,"""LUNTIK"" CHERRY TULKS 680 g",dessert
+Պանիր խինկալի Բիո կաթ/Քիս-Միլ/Կոնֆետ 50%,1650.0,406,cheese,Cheese Khinkali Bio Milk / Kis-Mill / Candy 50%,cheese
+0406 - Կաթնաշոռային մթերք «Արարատյան» 200գ,450.0,406,dairy,"0406 - Cottage cheese products ""Araratyan"" 200 g",cheese
+Գարեջուր Կլինսկոե  0.5լ Ա/Տ,450.0,2203,beer,Beer Klostko 0.5 l / t,beer
+Լոլիկ վարդագույն կգ,1968.52649006623,702,tomatoes,Tomato pink kg,tomatoes
+Հավի թևի բդիկ  տապակած,380.0,56,meat,Chicken arm bitter fried,meat
+"Դոնդող Ռուսկի պրոդուկտ, նարինջ, 50",280.0,2007,dessert,"Jelly Russian product, orange, 50",else
